@@ -1,0 +1,86 @@
+{
+  "data": [
+    [{
+      "title" : "美食",
+      "image" : "require('../../images/h_0.png')"
+    },
+    {
+      "title" : "卖场便利",
+      "image" : "require('../../images/h_1.png')"
+    },
+    {
+      "title" : "水果",
+      "image" : "h_3.png"
+    },
+    {
+      "title" : "跑腿代购",
+      "image" : "h_4.png"
+    },
+    {
+      "title" : "甜品饮品",
+      "image" : "h_5.png"
+    },
+    {
+      "title" : "校园优选",
+      "image" : "h_6.png"
+    },
+    {
+      "title" : "下午茶",
+      "image" : "h_7.png"
+    },
+    {
+      "title" : "快餐简餐",
+      "image" : "h_8.png"
+    },
+    {
+      "title" : "面包蛋糕",
+      "image" : "h_9.png"
+    },
+    {
+        "title" : "送药上门",
+        "image" : "h_10.png"
+    }
+    ],
+    [
+    {
+      "title" : "超市便利",
+      "image" : "h_11.png"
+    },
+    {
+      "title" : "蔬菜水果",
+      "image" : "h_12.png"
+    },
+    {
+      "title" : "减免配送费",
+      "image" : "h_13.png"
+    },
+    {
+      "title" : "到店自取",
+      "image" : "h_14.png"
+    },
+    {
+      "title" : "汉堡披萨",
+      "image" : "h_15.png"
+    },
+      {
+        "title" : "品牌连锁",
+        "image" : "h_1.png"
+      },
+    {
+      "title" : "赠准时宝",
+      "image" : "h_5.png"
+    },
+    {
+      "title" : "日韩料理",
+      "image" : "h_6.png"
+    },
+    {
+      "title" : "夜宵",
+      "image" : "h_8.png"
+    },
+    {
+      "title" : "全部分类",
+      "image" : "ic_type.png"
+    }]
+  ]
+}
